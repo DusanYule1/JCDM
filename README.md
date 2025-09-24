@@ -25,10 +25,10 @@ This stage trains the denoising U-Net with the frozen APM to generate the final 
 
 ```
 # First part of Stage 2 training
-sh run_train_stage2_stage1.sh
+sh run_train_stage2_part1.sh
 
 # Second part of Stage 2 training
-sh run_train_stage2_stage2.sh
+sh run_train_stage2_part2.sh
 ```
 
 ## Inference
@@ -90,10 +90,10 @@ sh run_train_stage1.sh
 
 ```
 # 第二阶段训练的第一部分
-sh run_train_stage2_stage1.sh
+sh run_train_stage2_part1.sh
 
 # 第二阶段训练的第二部分
-sh run_train_stage2_stage2.sh
+sh run_train_stage2_part2.sh
 ```
 
 ## 推理
