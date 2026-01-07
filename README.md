@@ -6,6 +6,7 @@ JCDM consists of two key components:
 
 1. **Appearance Prior Module (APM):** Infers a holistic, identity-preserving prior from incomplete reference images.
 2. **Joint Conditional Injection (JCI):** Fuses multi-view cues and injects them as shared conditioning into the denoising backbone to align identity, color, and texture across different poses.
+[ckpt](https://drive.google.com/drive/folders/1o3fnJUytK1QGPSrC7F5hKvdQV0feYtMA?usp=sharing)
 
 ## Training
 
@@ -71,6 +72,7 @@ JCDM 由两个关键组件组成：
 
 1. **外观先验模块 (APM):** 从不完整的参考图像中推断出整体的、保持身份的先验。
 2. **联合条件注入 (JCI):** 融合多视图线索，并将其作为共享条件注入到去噪主干中，以在不同姿态之间对齐身份、颜色和纹理。
+[ckpt](https://drive.google.com/drive/folders/1o3fnJUytK1QGPSrC7F5hKvdQV0feYtMA?usp=sharing)
 
 ## 训练
 
